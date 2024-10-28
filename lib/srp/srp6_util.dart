@@ -1,4 +1,4 @@
-library src.srp_util;
+library;
 
 import 'dart:math' as math;
 import 'dart:typed_data';

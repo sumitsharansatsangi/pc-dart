@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.signer.ecdsa_signer;
+library;
 
 import 'dart:math';
 import 'dart:typed_data';

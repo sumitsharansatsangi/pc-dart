@@ -1,4 +1,4 @@
-library src.srp_standard_groups;
+library;
 
 class SRP6GroupParameters {
   BigInt N, g;

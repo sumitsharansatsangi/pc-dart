@@ -1,5 +1,5 @@
 @TestOn('vm')
-library test.stream.chacha20poly1305_test;
+library;
 
 import 'dart:typed_data';
 

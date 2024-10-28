@@ -3,7 +3,7 @@
 @OnPlatform({
   'vm': Skip(),
 })
-library test.key_derivators.scrypt_test;
+library;
 
 import 'package:pointycastle/pointycastle.dart';
 import 'package:test/test.dart';

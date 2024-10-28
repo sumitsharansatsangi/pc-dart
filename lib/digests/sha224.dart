@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.digest.sha224;
+library;
 
 import 'dart:typed_data';
 

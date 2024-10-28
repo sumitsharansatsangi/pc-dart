@@ -1,4 +1,4 @@
-library asn1;
+library;
 
 export 'asn1/asn1_encoding_rule.dart';
 export 'asn1/asn1_object.dart';

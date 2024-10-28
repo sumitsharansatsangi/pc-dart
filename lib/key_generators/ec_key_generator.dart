@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.key_generator.ec_key_generator;
+library;
 
 import 'package:pointycastle/api.dart';
 import 'package:pointycastle/ecc/api.dart';
@@ -34,7 +34,7 @@ class ECKeyGenerator implements KeyGenerator {
   }
 
   @override
-  AsymmetricKeyPair generateKeyPair() {
+ AsymmetricKeyPair<ECPublicKey, ECPrivateKey> generateKeyPair({BigInt? d})  {
     var n = _params.n;
     var nBitLength = n.bitLength;
     BigInt? d;
@@ -42,8 +42,7 @@ class ECKeyGenerator implements KeyGenerator {
     do {
       d = _random.nextBigInteger(nBitLength);
     } while (d == BigInt.zero || (d >= n));
-
-    var Q = _params.G * d;
+      var Q = _params.G * d;
 
     return AsymmetricKeyPair(ECPublicKey(Q, _params), ECPrivateKey(d, _params));
   }

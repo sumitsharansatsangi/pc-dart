@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.block_cipher.aes_fast;
+library;
 
 import 'dart:typed_data';
 

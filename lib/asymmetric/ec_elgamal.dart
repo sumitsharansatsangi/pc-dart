@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.asymmetric.ecc.elgamal;
+library;
 
 import 'package:pointycastle/export.dart';
 import 'package:pointycastle/src/platform_check/platform_check.dart';

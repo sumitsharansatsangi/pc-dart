@@ -1,5 +1,5 @@
 /// Wrapper for needed NodeJS Crypto library function and require.
-library nodecryto;
+library;
 
 import 'dart:js_interop';
 import 'dart:js_interop_unsafe';

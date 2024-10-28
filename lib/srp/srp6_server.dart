@@ -1,4 +1,4 @@
-library impl.srp_server;
+library;
 
 import 'package:pointycastle/api.dart';
 import 'package:pointycastle/srp/srp6_standard_groups.dart';

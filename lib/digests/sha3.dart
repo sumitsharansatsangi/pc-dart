@@ -1,6 +1,6 @@
 // This file has been migrated.
 
-library impl.digest.sha3;
+library;
 
 import 'dart:typed_data';
 

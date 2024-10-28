@@ -1,4 +1,4 @@
-library impl.block_cipher.modes.ccm;
+library;
 
 import 'dart:typed_data';
 

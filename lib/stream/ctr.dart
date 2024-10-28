@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.stream_cipher.ctr;
+library;
 
 import 'package:pointycastle/api.dart';
 import 'package:pointycastle/stream/sic.dart';

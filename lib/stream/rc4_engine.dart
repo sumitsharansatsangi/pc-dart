@@ -1,4 +1,4 @@
-library impl.stream_cipher.rc4_engine;
+library;
 
 import 'dart:typed_data';
 

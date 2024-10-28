@@ -1,6 +1,6 @@
 // This file has been migrated.
 
-library impl.digest.cshake;
+library;
 
 import 'dart:typed_data';
 

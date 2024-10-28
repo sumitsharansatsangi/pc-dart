@@ -4,7 +4,7 @@
   'chrome': Skip('Excessive time / resource consumption on this platform'),
   'node': Skip('Excessive time / resource consumption on this platform')
 })
-library test.key_derivators.scrypt_test;
+library;
 
 import 'package:pointycastle/pointycastle.dart';
 import 'package:test/test.dart';

@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library api.asymmetric;
+library;
 
 import 'dart:typed_data';
 

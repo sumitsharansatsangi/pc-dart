@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.block_cipher.modes.cfb;
+library;
 
 import 'dart:typed_data';
 

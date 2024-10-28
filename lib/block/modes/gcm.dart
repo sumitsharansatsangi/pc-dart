@@ -1,4 +1,4 @@
-library impl.block_cipher.modes.gcm;
+library;
 
 import 'dart:math' show min;
 import 'dart:typed_data';

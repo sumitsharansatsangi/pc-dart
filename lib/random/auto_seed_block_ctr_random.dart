@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.secure_random.auto_seed_block_ctr_random;
+library;
 
 import 'dart:typed_data';
 

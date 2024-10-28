@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library api.key_generators;
+library;
 
 import 'package:pointycastle/api.dart';
 import 'package:pointycastle/ecc/api.dart';

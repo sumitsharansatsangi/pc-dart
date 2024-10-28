@@ -1,4 +1,4 @@
-library impl.digest.utils;
+library;
 
 import 'dart:typed_data';
 

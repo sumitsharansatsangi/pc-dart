@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.signer.pss_signer;
+library;
 
 import 'dart:typed_data';
 

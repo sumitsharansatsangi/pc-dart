@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.mac.cbc_block_cipher_mac;
+library;
 
 import 'dart:typed_data';
 

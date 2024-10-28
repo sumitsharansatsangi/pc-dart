@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.ec_domain_parameters.secp112r2;
+library;
 
 import 'package:pointycastle/ecc/api.dart';
 import 'package:pointycastle/ecc/ecc_base.dart';

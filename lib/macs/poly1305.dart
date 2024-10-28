@@ -1,6 +1,6 @@
 // This file has been migrated.
 
-library impl.mac.poly1305;
+library;
 
 import 'dart:typed_data';
 

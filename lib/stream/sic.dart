@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.stream_cipher.sic;
+library;
 
 import 'dart:typed_data';
 

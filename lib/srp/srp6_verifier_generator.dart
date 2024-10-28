@@ -1,4 +1,4 @@
-library src.srp_verifier_generator;
+library;
 
 import 'dart:typed_data';
 

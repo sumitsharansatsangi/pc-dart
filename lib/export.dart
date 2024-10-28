@@ -2,7 +2,7 @@
 
 /// This library exports all implementation classes from the entire PointyCastle
 /// project.
-library export;
+library;
 
 export 'package:pointycastle/api.dart';
 export 'package:pointycastle/impl.dart';
@@ -20,6 +20,9 @@ export 'package:pointycastle/block/aes_fast.dart';
 export 'package:pointycastle/block/aes.dart';
 export 'package:pointycastle/block/desede_engine.dart';
 export 'package:pointycastle/block/rc2_engine.dart';
+export 'package:pointycastle/block/blowfish.dart';
+export 'package:pointycastle/block/camellia.dart';
+export 'package:pointycastle/block/twofish.dart';
 
 // block/modes
 export 'package:pointycastle/block/modes/cbc.dart';
@@ -81,7 +84,7 @@ export 'package:pointycastle/macs/hmac.dart';
 export 'package:pointycastle/macs/cmac.dart';
 export 'package:pointycastle/macs/poly1305.dart';
 export 'package:pointycastle/macs/cbc_block_cipher_mac.dart';
-
+export 'package:pointycastle/random/dart_secure_random.dart';
 // paddings
 export 'package:pointycastle/padded_block_cipher/padded_block_cipher_impl.dart';
 export 'package:pointycastle/paddings/pkcs7.dart';

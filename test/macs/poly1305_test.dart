@@ -1,7 +1,7 @@
 @TestOn('vm')
 // See file LICENSE for more information.
 
-library test.macs.poly1305_test;
+library;
 
 import 'package:pointycastle/export.dart';
 import 'package:test/test.dart';

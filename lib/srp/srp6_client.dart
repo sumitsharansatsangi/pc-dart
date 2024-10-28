@@ -1,4 +1,4 @@
-library impl.srp_client;
+library;
 
 import 'dart:typed_data';
 

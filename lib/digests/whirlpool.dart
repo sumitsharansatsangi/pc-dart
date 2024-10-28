@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.digest.whirlpool;
+library;
 
 import 'dart:typed_data';
 

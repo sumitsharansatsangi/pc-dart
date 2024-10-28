@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.padding.iso7816d4;
+library;
 
 import 'dart:typed_data' show Uint8List;
 

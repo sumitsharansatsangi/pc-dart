@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.asymmetric_block_cipher.rsa;
+library;
 
 import 'dart:typed_data';
 

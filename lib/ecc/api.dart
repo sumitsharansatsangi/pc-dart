@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library api.ecc;
+library;
 
 import 'dart:typed_data';
 

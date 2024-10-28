@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.key_generator.rsa_key_generator;
+library;
 
 import 'package:pointycastle/api.dart';
 import 'package:pointycastle/asymmetric/api.dart';
@@ -41,7 +41,7 @@ class RSAKeyGenerator implements KeyGenerator {
   }
 
   @override
-  AsymmetricKeyPair generateKeyPair() {
+  AsymmetricKeyPair generateKeyPair({BigInt? d}) {
     BigInt p, q, n, e;
 
     // p and q values should have a length of half the strength in bits

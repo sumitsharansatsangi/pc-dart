@@ -1,4 +1,4 @@
-library impl.stream_cipher.chacha20;
+library;
 
 import 'dart:typed_data';
 

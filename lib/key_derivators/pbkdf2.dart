@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.key_derivator.pbkdf2;
+library;
 
 import 'dart:typed_data';
 

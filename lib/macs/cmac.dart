@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.mac.cmac;
+library;
 
 import 'dart:typed_data';
 

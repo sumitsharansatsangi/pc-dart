@@ -8,7 +8,7 @@
 /// * **impl.dart** = defines algorithm implementations and all cipherParameters to be used with them
 /// * **asn1.dart** = ASN1 library to encode and decode ASN1 objects
 ///
-library pointycastle;
+library;
 
 export 'package:pointycastle/api.dart';
 export 'package:pointycastle/impl.dart';

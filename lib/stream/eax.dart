@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.stream_cipher.eax;
+library;
 
 import 'dart:core';
 import 'dart:math';

@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.padding.pkcs7;
+library;
 
 import 'dart:typed_data';
 

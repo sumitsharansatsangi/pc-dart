@@ -1,6 +1,6 @@
 // See file LICENSE for more information.
 
-library impl.key_derivator.scrypt;
+library;
 
 import 'dart:typed_data';
 

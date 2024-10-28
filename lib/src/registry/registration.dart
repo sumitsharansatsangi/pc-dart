@@ -151,6 +151,7 @@ void _registerRandoms(FactoryRegistry registry) {
   registry.register(AutoSeedBlockCtrRandom.factoryConfig);
   registry.register(BlockCtrRandom.factoryConfig);
   registry.register(FortunaRandom.factoryConfig);
+  registry.register(DartSecureRandom.factoryConfig);
 }
 
 void _registerSigners(FactoryRegistry registry) {
